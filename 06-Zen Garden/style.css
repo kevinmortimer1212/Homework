@@ -14,23 +14,25 @@ html {
 	padding: 0;
 	}
 body { 
-	font: 75% georgia, sans-serif;
+	font-family: 'Orbitron', sans-serif;
 	line-height: 1.88889;
 	color:rgb(255,255,255); 
 	background:url( "file:///Users/kevinmortimer/Desktop/Homework/06-Zen%20Garden/background.jpg"); 
 	margin: 0; 
 	padding: 0;
+	font-size: 15px;
 	}
 p { 
 	margin-top: 0; 
 	text-align:left;
 	}
 h3 { 
-	font: italic normal 20px georgia, sans-serif;
+	font-family: 'Sigmar One', cursive;
 	letter-spacing: 1px; 
 	margin-bottom: 0; 
-	color:rgb(150,80,45);
+	color:rgb(200,215,100);
 	text-align: left;
+	font-size: 25px;
 	}
 a:link { 
 	font-weight: bold; 
