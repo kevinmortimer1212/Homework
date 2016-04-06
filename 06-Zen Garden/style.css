@@ -140,9 +140,9 @@ footer a:link, footer a:visited {
 	padding: 10px; 
 	width: 130px; 
 	height:850px;
-	
-	float: right;
-background-position: fixed;
+	position: fixed; 
+	top:2px; 
+	right: 0; 
 	}
 .sidebar h3.select { 
 	background: transparent url(h3.gif) no-repeat top left; 
@@ -198,7 +198,7 @@ background-position: fixed;
 
 .extra1 {
 	background: transparent url(cr2.gif) top left no-repeat; 
-	position: absolute; 
+	position: fixed; 
 	top: 40px; 
 	right: 0; 
 	width: 148px; 
