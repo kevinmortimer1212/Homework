@@ -1,8 +1,8 @@
-p{
-	
+body{
+	background-color: #9abc61;
 }
 
-.sidebar{
+/*.sidebar{
 	font: 10px verdana, sans-serif; 
 	background-color: #cd6600; 
 	padding: 10px; 

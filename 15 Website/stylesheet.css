@@ -1,8 +1,15 @@
-p{
-	
-}
-
 body{
-	background-image: url();
+	background-color: #e3d755;
+	margin: 0; 
+	height: 100%;
+	width: 100%;
+
 }
 
+#homelogo{
+	width: 400px;
+	height: 400px;
+	padding: 0px;
+	margin-top: -200px;
+	margin-left: 250px;
+}
