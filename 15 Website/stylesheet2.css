@@ -1,3 +1,14 @@
 p{
 	
 }
+
+.sidebar{
+	font: 10px verdana, sans-serif; 
+	background-color: #cd6600; 
+	padding: 10px; 
+	width: 130px; 
+	height:850px;
+	position: fixed; 
+	top:2px; 
+	right: 0; 
+}
